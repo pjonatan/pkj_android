@@ -28,13 +28,6 @@
             </intent-filter>
         </activity>
         <activity
-            android:label="@string/nyanyi"
-            android:name=".Nyanyi">
-            <intent-filter>
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
             android:label="@string/tampil"
             android:name=".Tampil">
             <intent-filter>
