@@ -31,7 +31,7 @@
         android:layout_weight="60" 
         android:layout_height="30dp"
         android:textSize="20sp"
-        android:fontFamily="Arial"
+        android:typeface="serif"
         android:layout_marginTop="5dp"
         android:text="" />
         
