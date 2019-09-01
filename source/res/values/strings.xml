@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PKJ</string>
+	<string name="tampil">Tampil</string>
+    <string name="nol">"0"</string>
+    <string name="one">"1"</string>
+    <string name="two">"2"</string>
+    <string name="tri">"3"</string>
+    <string name="fou">"4"</string>
+    <string name="fiv">"5"</string>
+    <string name="six">"6"</string>
+    <string name="sev">"7"</string>
+    <string name="eig">"8"</string>
+    <string name="nin">"9"</string>
+    <string name="oky">Ok</string>
+    <string name="hapus">Hapus</string>
+    
+</resources>
+
