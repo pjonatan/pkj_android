@@ -17,3 +17,5 @@ KJ.apk size about 21 KB
 kj.db size about 370 KB
 
 Compile with eclipse + android sdk, deleted android support v4 jar library ( in lib folder).
+
+If someone need modification, please contact me at: pjtht@protonmail.com or there was something error please inform me too.
